@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplikasi Kalkulator</string>
+    <string name="tvJudul">Kalkulator Adit</string>
+    <string name="masukan_angka_pertama">masukan angka pertama</string>
+    <string name="masukan_angka_kedua">masukan angka kedua</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">X</string>
+    <string name="bagi">/</string>
+    <string name="bersihkan">Bersihkan</string>
+    <string name="hasil">Hasil</string>
+    <string name="nilai">0</string>
+</resources>
