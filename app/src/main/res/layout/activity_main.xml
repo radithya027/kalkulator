@@ -55,5 +55,4 @@
         android:textSize="6pt"
         android:textColor="@color/purple_200"/>
 
-
 </LinearLayout>
